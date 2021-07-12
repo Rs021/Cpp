@@ -1,3 +1,0 @@
-/home/ryan/Documentos/GUI/build/CMakeFiles/rebuild_cache.dir
-/home/ryan/Documentos/GUI/build/CMakeFiles/edit_cache.dir
-/home/ryan/Documentos/GUI/build/CMakeFiles/OpenGL.dir
